@@ -17,13 +17,13 @@ I leverage cutting-edge machine learning techniques to tackle real-world problem
 
 Proficient in Python, R, SQL, and various data science libraries and frameworks (e.g., Pandas, NumPy, scikit-learn, TensorFlow, PyTorch). Experienced in data visualization tools like Matplotlib, Seaborn, and Plotly, as well as in creating interactive dashboards using tools like Tableau and Power BI. [Discover Interactive Dashboard Projects](PASTELINK)
 
+<h4><b>📈 Track Record of Success</b></h4> 
+
+My portfolio showcases a diverse range of data analysis and machine learning projects, each demonstrating my ability to translate raw data into actionable insights and impactful solutions. Whether it's optimizing business processes, predicting customer behavior, or enhancing product performance, I consistently deliver results that exceed expectations. [Discover Certifications](PASTELINK)
+
 <h4><b>💡 Passionate about Data</b></h4> 
 
 Data isn't just my area of expertise—it's my passion. I believe in the transformative power of data to drive decision-making, enhance user experiences, and solve some of the world's most pressing challenges. I'm constantly exploring new methodologies, staying up-to-date with the latest advancements, and seeking out opportunities to apply my skills in novel and impactful ways.
-
-<h4><b>📈 Track Record of Success</b></h4> 
-
-My portfolio showcases a diverse range of data analysis and machine learning projects, each demonstrating my ability to translate raw data into actionable insights and impactful solutions. Whether it's optimizing business processes, predicting customer behavior, or enhancing product performance, I consistently deliver results that exceed expectations.
 
 <h4><b>🌟 Driven by Impact</b></h4> 
 
