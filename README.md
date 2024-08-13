@@ -22,7 +22,7 @@ My portfolio showcases a diverse range of data analysis and machine learning pro
 
 <h4><b>💡 Passionate about Data</b></h4> 
 
-Data isn't just my area of expertise—it's my passion. I believe in the transformative power of data to drive decision-making, enhance user experiences, and solve some of the world's most pressing challenges. I'm constantly exploring new methodologies, staying up-to-date with the latest advancements, and seeking out opportunities to apply my skills in novel and impactful ways.
+Data isn't just my area of expertise — it's my passion. I believe in the transformative power of data to drive decision-making, enhance user experiences, and solve some of the world's most pressing challenges. I'm constantly exploring new methodologies, staying up-to-date with the latest advancements, and seeking out opportunities to apply my skills in novel and impactful ways.
 
 <h4><b>🌟 Driven by Impact</b></h4> 
 
