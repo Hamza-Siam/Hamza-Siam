@@ -4,11 +4,11 @@
 
 ---
 
-<h4><b>🔍 Data Analysis Maestro</b></h4> 
+<h4><b>🔍 Data Analysis </b></h4> 
 
 With a keen eye for detail and a knack for uncovering hidden patterns, I excel in analyzing complex datasets to extract meaningful insights. Whether it's exploring trends, identifying outliers, or conducting in-depth statistical analysis, I'm dedicated to illuminating the stories that data holds. [Discover Data Analysis Projects](https://github.com/Hamza-Siam/Data-Analysis-Projects)
 
-<h4><b>🤖 Machine Learning Virtuoso</b></h4> 
+<h4><b>🤖 Machine Learning </b></h4> 
 
 I leverage cutting-edge machine learning techniques to tackle real-world problems and drive innovation. From predictive modeling and classification to natural language processing and computer vision, I thrive on pushing the boundaries of what's possible with data-driven approaches. [Discover Machine Learning Projects](https://github.com/Hamza-Siam/Machine-Learning-Projects)
 
